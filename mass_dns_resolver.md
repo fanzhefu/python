@@ -1,3 +1,6 @@
+
+https://gist.github.com/chrisdavidmiles/5aa1b3c7194bde4c7aa34895c1e497d6
+```
 Bulk DNS Lookup bash script 
 #!/bin/bash
 # Bulk DNS Lookup
@@ -25,10 +28,13 @@ do
     fi
     sleep $loop_wait # Pause before the next lookup to avoid flooding NS
 done
+```
+https://www.nirsoft.net/utils/fastresolver.html
 
 https://github.com/blechschmidt/massdns
 https://github.com/Abss0x7tbh/bass
 https://github.com/hrbrmstr/zdnsr
 https://github.com/DmitryFillo/berserker_resolver
 
-
+https://gist.github.com/markbosky/51b7208535d9580dce456352c9af035b
+https://gitlab.com/geekynick/short-scripts/blob/master/powershell/bulk_dns_lookup.ps1
