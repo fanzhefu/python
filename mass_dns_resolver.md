@@ -29,13 +29,13 @@ do
     sleep $loop_wait # Pause before the next lookup to avoid flooding NS
 done
 ```
-https://www.nirsoft.net/utils/fastresolver.html
+https://www.nirsoft.net/utils/fastresolver.html </br>
 
-https://github.com/blechschmidt/massdns
-https://github.com/Abss0x7tbh/bass
-https://github.com/hrbrmstr/zdnsr
-https://github.com/DmitryFillo/berserker_resolver
+https://github.com/blechschmidt/massdns </br>
+https://github.com/Abss0x7tbh/bass </br>
+https://github.com/hrbrmstr/zdnsr </br>
+https://github.com/DmitryFillo/berserker_resolver </br>
 
-https://gist.github.com/markbosky/51b7208535d9580dce456352c9af035b
-https://fredrikengseth.medium.com/using-powershell-to-bulk-look-up-dns-for-domain-names-fc083ea5ebd0
-https://gitlab.com/geekynick/short-scripts/blob/master/powershell/bulk_dns_lookup.ps1
+https://gist.github.com/markbosky/51b7208535d9580dce456352c9af035b </br>
+https://fredrikengseth.medium.com/using-powershell-to-bulk-look-up-dns-for-domain-names-fc083ea5ebd0 </br>
+https://gitlab.com/geekynick/short-scripts/blob/master/powershell/bulk_dns_lookup.ps1 </br>
